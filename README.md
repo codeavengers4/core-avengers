@@ -13,7 +13,7 @@ Ensure you have the following installed on your system:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/core-avengers/fraudshield-galaxy.git
+git clone https://github.com/codeavengers4/core-avengers.git
 cd fraudshield-galaxy
 ```
 
