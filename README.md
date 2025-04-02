@@ -13,7 +13,7 @@ Ensure you have the following installed on your system:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo-url/fraudshield-galaxy.git
+git clone https://github.com/core-avengers/fraudshield-galaxy.git
 cd fraudshield-galaxy
 ```
 
@@ -42,6 +42,11 @@ Your app should now be running at **`http://localhost:8080`**.
   ```sh
   npm install vite
   ```
+  or
+  ```sh
+  npx insatll vite
+  ```
+  
 - If you face dependency issues, try:
   ```sh
   rm -rf node_modules package-lock.json && npm install
@@ -57,3 +62,15 @@ or
 ```sh
 yarn build
 ```
+
+## Development Server
+To Run the Development Server:
+```sh
+npm run dev
+```
+or
+```sh
+yarn dev
+```
+
+
