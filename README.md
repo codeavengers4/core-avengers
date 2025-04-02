@@ -1,6 +1,6 @@
-# FraudShield Galaxy
+# Scam Shield
 
-FraudShield Galaxy is a web application built with Vite, React, and ShadCN.
+Scam Shield is a web application built with Vite, React, and ShadCN.
 
 ## Prerequisites
 
@@ -14,7 +14,8 @@ Ensure you have the following installed on your system:
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/codeavengers4/core-avengers.git
-cd fraudshield-galaxy
+cd core-avengers
+
 ```
 
 ### 2. Install Dependencies
