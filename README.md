@@ -63,14 +63,3 @@ or
 yarn build
 ```
 
-## Development Server
-To Run the Development Server:
-```sh
-npm run dev
-```
-or
-```sh
-yarn dev
-```
-
-
