@@ -1,6 +1,6 @@
-# FraudShield Galaxy
+# Scam Shield
 
-FraudShield Galaxy is a web application built with Vite, React, and ShadCN.
+Scam Shield is a web application built with Vite, React, and ShadCN.
 
 ## Prerequisites
 
